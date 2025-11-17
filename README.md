@@ -47,6 +47,7 @@
 
   
 *Figura 6 — Confirmação mínima de login após o sucesso; sem pós-exploração.*
+
 <img width="405" height="303" alt="15592e78-1c15-4b66-889d-2aba658313e0" src="https://github.com/user-attachments/assets/7d9e63b8-2a4e-4135-b2af-6add6e2abc50" />
 
 **Mitigações (recomendadas).**
